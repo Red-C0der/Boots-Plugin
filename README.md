@@ -1,2 +1,5 @@
 # Boots-Plugin
-A Minecraft  boots plugin for Spigot 1.8
+
+Welcome to my first Plugin. I hope you like it! 
+ Keigu Luxa-Gaming
+
